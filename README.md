@@ -4,7 +4,7 @@
 
 I'm a Computer Science & AI student at Shrouk Academy University with a passion for building clean, scalable backend systems and solving complex algorithmic problems. Whether it's crafting RESTful APIs with Spring Boot or competing in programming contests, I love the challenge of turning problems into elegant solutions.
 
-📄 **[View My CV](link-to-your-cv)**
+📄 **[View My CV](https://drive.google.com/file/d/1FW4iB7O4UqsUvIV1s0Hvz3BRF_l6vZhw/view?usp=sharinglink-to-your-cv)**
 
 ---
 
