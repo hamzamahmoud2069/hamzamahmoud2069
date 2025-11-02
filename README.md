@@ -47,6 +47,8 @@ I'm a Computer Science & AI student at Shrouk Academy University with a passion 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Core Concepts**  
 REST APIs • MVC Architecture • CRUD Operations • Authentication & Authorization • Database Schema Design • OOP • Git Version Control • Algorithms • Data Structures
@@ -92,7 +94,7 @@ A full-stack CRUD web application for managing employee records with an intuitiv
 
 ## 📚 Continuous Learning
 
-- ✅ Completed **35-hour Back-End Development (Spring Boot)** course on Udemy ([View Certificate](link-to-certificate))
+- ✅ Completed **35-hour Back-End Development (Spring Boot)** course on Udemy ([View Certificate]([link-to-certificate](https://www.udemy.com/certificate/UC-3dc96955-5e0d-432a-b09e-6945ca77dcd1/)))
 - 📖 Actively learning microservices architecture and cloud technologies
 - 🎓 Balancing university coursework with hands-on project development
 - 🧠 Constantly improving problem-solving skills through competitive programming
