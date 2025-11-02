@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad,100:1a001f&height=100&section=header"/>
+</p>
+
+
+
 # Hi there, I'm Hamza Mahmoud 👋
 
 **Backend Developer** | **Competitive Programmer** | **ICPC Instructor**
