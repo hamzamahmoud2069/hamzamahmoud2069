@@ -130,3 +130,9 @@ A full-stack CRUD web application for managing employee records with an intuitiv
 ⭐️ *"First, solve the problem. Then, write the code."* – John Johnson
 
 I'm always open to collaborating on backend projects, discussing algorithms, or helping fellow developers learn. Feel free to explore my repositories and reach out!
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e003e,50:6a0dad,100:1a001f&height=100&section=header"/>
+</p>
+
