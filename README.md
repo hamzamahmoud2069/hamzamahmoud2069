@@ -55,6 +55,8 @@ I'm a Computer Science & AI student at Shrouk Academy University with a passion 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Core Concepts**  
 REST APIs • MVC Architecture • CRUD Operations • Authentication & Authorization • Database Schema Design • OOP • Git Version Control • Algorithms • Data Structures
